@@ -43,7 +43,7 @@ Bot: 😔 I'm sorry you're feeling that way. (confidence: 0.77)
 You: exit
 Bot: 👋 Goodbye! Have a nice day.
 
-🧠 How It Works
+How It Works
 
 Preprocessing: Cleans text (removes URLs, mentions, punctuation).
 
